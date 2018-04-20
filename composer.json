@@ -1,0 +1,10 @@
+{
+    "autoload": {
+      "psr-4": {
+        "GoogleCloudVisionPHP\\": "src"
+      }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
